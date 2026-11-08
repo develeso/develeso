@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**develeso/develeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:3a3a3a,100:9a9a9a&text=develeso&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=code%20%C2%B7%20systems%20%C2%B7%20learning&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="develeso" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=BDBDBD&center=true&vCenter=true&width=520&lines=Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Go;Writing+code+and+learning+in+public;Low-level+curious%2C+high-level+pragmatic" alt="typing" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+## `> whoami`
+
+Developer and first-year university student. About three years of programming, a lot of curiosity about how things work under the hood.
+I build my own projects and keep learning: sharpening **Python**, digging deep into **C++**, and moving into **Rust** and **Go**.
+
+## `> stack`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1a1a1a?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1a1a1a?style=for-the-badge&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
+
+## `> now`
+
+| Language | Status |
+| :-- | :-- |
+| Python | leveling up |
+| C++ | studying in depth |
+| Rust | getting started |
+| Go | getting started |
+
+## `> activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=develeso&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0&icon_color=ffffff&border_color=2a2a2a&hide_title=false" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develeso&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0&border_color=2a2a2a" height="165" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=develeso&hide_border=false&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=B0B0B0&sideLabels=B0B0B0&dates=707070&stroke=2A2A2A&border=2A2A2A" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=develeso&bg_color=0d0d0d&color=ffffff&line=9a9a9a&point=ffffff&area=true&area_color=3a3a3a&hide_border=true" width="100%" alt="activity graph" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9a9a9a,50:3a3a3a,100:000000&section=footer" width="100%" alt="" />
+
+</div>
