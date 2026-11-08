@@ -8,6 +8,17 @@
 
 <br>
 
+<div align="center">
+
+<table>
+<tr>
+<td><img src="assets/terminal.svg" width="600" alt="terminal" /></td>
+<td><img src="assets/tesseract.svg" width="300" alt="tesseract" /></td>
+</tr>
+</table>
+
+</div>
+
 ## `> whoami`
 
 Developer and first-year university student. About three years of programming, a lot of curiosity about how things work under the hood.
@@ -38,9 +49,6 @@ I build my own projects and keep learning: sharpening **Python**, digging deep i
 ## `> activity`
 
 <div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=develeso&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0&icon_color=ffffff&border_color=2a2a2a&hide_title=false" height="165" alt="stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=develeso&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0&border_color=2a2a2a" height="165" alt="top languages" />
 
 <img src="https://streak-stats.demolab.com?user=develeso&hide_border=false&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=B0B0B0&sideLabels=B0B0B0&dates=707070&stroke=2A2A2A&border=2A2A2A" alt="streak" />
 
