@@ -39,12 +39,10 @@ I build my own projects and keep learning: sharpening **Python**, digging deep i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=develeso&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0&icon_color=ffffff&border_color=2a2a2a&hide_title=false" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develeso&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0&border_color=2a2a2a" height="165" alt="top languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=develeso&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0&icon_color=ffffff&border_color=2a2a2a&hide_title=false" height="165" alt="stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=develeso&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0&border_color=2a2a2a" height="165" alt="top languages" />
 
 <img src="https://streak-stats.demolab.com?user=develeso&hide_border=false&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=B0B0B0&sideLabels=B0B0B0&dates=707070&stroke=2A2A2A&border=2A2A2A" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=develeso&bg_color=0d0d0d&color=ffffff&line=9a9a9a&point=ffffff&area=true&area_color=3a3a3a&hide_border=true" width="100%" alt="activity graph" />
 
 </div>
 
